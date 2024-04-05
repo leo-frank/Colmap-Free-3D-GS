@@ -5,8 +5,9 @@ Coming before 4.19 Apr.
 
 ## Features Implemented
 
+![Output sample](https://github.com/leo-frank/Colmap-Free-3D-GS/raw/main/Ballroom.mp4)
 
-<div style="display: flex;">
+<!-- <div style="display: flex;">
   <div style="flex: 50%;">
     <video controls width="100%">
       <source src="Ballroom.mp4" type="video/mp4">
@@ -49,4 +50,4 @@ Coming before 4.19 Apr.
     </video>
   </div>
 </div>
-
+ -->
