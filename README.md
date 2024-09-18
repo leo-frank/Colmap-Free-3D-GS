@@ -1,7 +1,7 @@
 # Colmap-Free-3D-GS
 A PyTorch reproduction of colmap-free 3D Gaussian Splatting (https://arxiv.org/abs/2312.07504). Since there is no open source codes, we want to implement it and make it better.
 
-Coming before 4.19 Apr.
+See: https://github.com/NVlabs/CF-3DGS
 
 ## Features Implemented
 
